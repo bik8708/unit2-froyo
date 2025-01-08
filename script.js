@@ -23,6 +23,6 @@ function promptFlavors() {
     }
   }
   console.log(flavorTracker);
-}
+
 
 promptFlavors();
